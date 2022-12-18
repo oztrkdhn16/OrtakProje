@@ -4,6 +4,7 @@ public class Ortak {
 
         System.out.println("Merhaba");
 
+        System.out.println("Hello World");
     }
 
 }
