@@ -4,9 +4,13 @@ public class Ortak {
 
         System.out.println("Merhaba");
 
+        System.out.println("fatma dosyaya bazi seyler ekledi");
+
+
         System.out.println("kljdsgkşflj");//hatice
 
         System.out.println("Hello World");
+
     }
 
 }
